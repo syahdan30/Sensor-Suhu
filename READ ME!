@@ -1,0 +1,15 @@
+>Petunjuk Sebelum Menjalankan Program:
+>Pastikan library berikut sudah terinstall:
+--->OneWire by Paul Stoffregen
+--->DallasTemperature by Miles Burton
+
+Periksa sambungan kabel sensor suhu DS18B20:
+-VCC → 3.3V atau 5V (sesuai sensor)
+-GND → GND
+-DATA → GPIO yang sesuai (misalnya GPIO10)
+
+>Gunakan resistor pull-up 4.7kΩ antara pin DATA dan VCC.
+
+>Upload kode ke board ESP32-C3 menggunakan Arduino IDE.
+
+>Buka Serial Monitor (baud rate: 115200) untuk melihat hasil pembacaan suhu.
