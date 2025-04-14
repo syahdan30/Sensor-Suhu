@@ -1,7 +1,7 @@
 >Petunjuk Sebelum Menjalankan Program:
 >Pastikan library berikut sudah terinstall:
---->OneWire by Paul Stoffregen
---->DallasTemperature by Miles Burton
+---> OneWire by Paul Stoffregen <---
+---> DallasTemperature by Miles Burton <---
 
 Periksa sambungan kabel sensor suhu DS18B20:
 -VCC → 3.3V atau 5V (sesuai sensor)
